@@ -4,3 +4,4 @@ Bem-vindo/a a minha lista de receitas
 
 - Strogonoff de Frango
 
+- Lasanha
